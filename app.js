@@ -1,9 +1,3 @@
-/* =====================================================
-   TalaDeck — app.js
-   Rewritten with: classes, constructors, arrays, object literals
-   (index.html and style.css stay exactly the same)
-   ===================================================== */
-
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
 
